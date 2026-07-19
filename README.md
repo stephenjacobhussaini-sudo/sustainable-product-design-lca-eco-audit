@@ -1,7 +1,3 @@
-## 📂 Repository 4: `sustainable-product-design-lca-eco-audit`
-
-
-```markdown
 # Streamlined Life Cycle Assessment & Sustainable Redesign Feasibility Study
 
 ## 📌 Project Overview
@@ -21,7 +17,7 @@ The project applies a targeted engineering substitution, keeping the structural 
 | Component | Mass (kg) | Baseline Material/Process | Redesign Material/Process | End-of-Life Parameter |
 | :--- | :--- | :--- | :--- | :--- |
 | **Wand Handle** | 0.050 | ABS Plastic (Virgin Polymer Injection Molding) | ABS Plastic (Virgin Polymer Injection Molding - Unchanged) | 80% Downcycling Rate |
-| **Flexible String** | 0.015 | **Nylon Synthetic Fiber** (Extruded Fabric Production) | **Hemp Natural Fiber Cord** (Continuous Braided Textile Process) | 90% Downcycling Rate |
+| **Flexible String** | 0.015 | Nylon Synthetic Fiber (Extruded Fabric Production) | Hemp Natural Fiber Cord (Continuous Braided Textile Process) | 90% Downcycling Rate |
 | **Teaser Link** | 0.020 | Polyester + Synthetic Feathers | Polyester + Synthetic Feathers (Unchanged) | 90% Downcycling Rate |
 
 ## 📊 Streamlined Eco Audit Environmental Results
