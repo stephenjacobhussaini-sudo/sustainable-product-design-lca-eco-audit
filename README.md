@@ -1,5 +1,3 @@
----
-
 ## 📂 Repository 4: `sustainable-product-design-lca-eco-audit`
 
 
