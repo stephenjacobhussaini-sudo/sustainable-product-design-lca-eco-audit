@@ -1,0 +1,1349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>3af5bad8-2a96-488c-8373-ecdbbfa57464</ID>
+  <Version>7</Version>
+  <AttributesVersion>2</AttributesVersion>
+  <Name />
+  <Author />
+  <Notes />
+  <Template />
+  <PassNA>false</PassNA>
+  <FailEstimatedRecords>false</FailEstimatedRecords>
+  <ResultType>0</ResultType>
+  <ResultStage>-1</ResultStage>
+  <RankByType>0</RankByType>
+  <RankByStage>-1</RankByStage>
+  <RankByProperty />
+  <IndexRankColumn>0</IndexRankColumn>
+  <RankOrder>1</RankOrder>
+  <Database>
+    <Path>C:\Program Files\ANSYS Inc\v252\EduPack\Database\L3_BioEngineering\data.gdb</Path>
+    <Name>Level 3 Bioengineering</Name>
+    <Unit>Metric</Unit>
+    <UnitType>Relative</UnitType>
+    <Currency>GBP</Currency>
+    <SelectionTable>MaterialUniverse</SelectionTable>
+    <Tables>
+      <Table>
+        <TableName>MaterialUniverse</TableName>
+        <SubsetName>All materials</SubsetName>
+        <LayoutName>All materials</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes>
+          <Envelope>
+            <Id>X03049d73-0df0-4806-afcd-85a3fc565bdd</Id>
+            <Name>Glass ceramics</Name>
+            <Color>4</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>52</Id>
+            <Name>Glasses</Name>
+            <Color>4</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X694b6834-5f2a-410c-9eac-9e3b6e287325</Id>
+            <Name>Non-technical ceramics</Name>
+            <Color>9</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>232</Id>
+            <Name>Technical ceramics</Name>
+            <Color>3</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>13535</Id>
+            <Name>Fibers and particulates</Name>
+            <Color>13</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>7005</Id>
+            <Name>Natural fibers</Name>
+            <Color>9</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>4329</Id>
+            <Name>Composites</Name>
+            <Color>6</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>7014</Id>
+            <Name>Foams</Name>
+            <Color>1</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X87ef5279-c41c-4350-8dfc-a6da75c5476d</Id>
+            <Name>Honeycombs</Name>
+            <Color>10</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>7004</Id>
+            <Name>Natural materials</Name>
+            <Color>7</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X1bd95d43-1ad5-4cf6-a869-3c1000c5d970</Id>
+            <Name>Mineralized tissue</Name>
+            <Color>5</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xabc6ca67-59a4-43b8-b61b-2c43088561d6</Id>
+            <Name>Soft tissue</Name>
+            <Color>10</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xb6f06cd4-69ce-4455-bf07-f7c4490c523b</Id>
+            <Name>PCB laminates</Name>
+            <Color>6</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xb9792dea-662a-4b27-a3f3-280d2045f462</Id>
+            <Name>Gases</Name>
+            <Color>14</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xa87eb136-4fd4-4b4b-b16c-5e4031d8dc6c</Id>
+            <Name>Liquids</Name>
+            <Color>14</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xecd7c10f-4f78-45d5-ad54-6a6429f1029e</Id>
+            <Name>Magnetic materials</Name>
+            <Color>15</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>1590</Id>
+            <Name>Metals and alloys</Name>
+            <Color>0</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X03cc6bbd-b370-40bc-b95c-df31e10aaa72</Id>
+            <Name>Elastomers</Name>
+            <Color>5</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xa49e66e3-edbf-4b30-a54c-02c8c62f811b</Id>
+            <Name>Plastics</Name>
+            <Color>2</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+        </Envelopes>
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>ProcessUniverse</TableName>
+        <SubsetName>All processes</SubsetName>
+        <LayoutName>All processes</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Producers</TableName>
+        <SubsetName>Producers</SubsetName>
+        <LayoutName>Producers</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Reference</TableName>
+        <SubsetName>All references</SubsetName>
+        <LayoutName>All references</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Shape</TableName>
+        <SubsetName>Shape class</SubsetName>
+        <LayoutName>Shape class</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Structural Sections</TableName>
+        <SubsetName>All structural sections</SubsetName>
+        <LayoutName>All structural sections</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Battery Cells</TableName>
+        <SubsetName>All cells</SubsetName>
+        <LayoutName>All properties</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes>
+          <Envelope>
+            <Id>X87f3954f-9442-432c-b819-bb0692e8b865</Id>
+            <Name>Alkaline Manganese</Name>
+            <Color>0</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xaa6770e4-960d-43d6-a08a-5b434eaaa3db</Id>
+            <Name>Lead Acid</Name>
+            <Color>4</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X71cc339c-03d0-4833-9bd4-94563b835e90</Id>
+            <Name>Lithium Manganese Dioxide</Name>
+            <Color>3</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X7b3570d6-1869-4d0f-99c9-21b84f9c36be</Id>
+            <Name>Lithium-ion (LCO)</Name>
+            <Color>1</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X5231272c-727f-41e4-8eaf-60c0a77e8be4</Id>
+            <Name>Lithium-ion (LFP)</Name>
+            <Color>1</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X182e829d-0095-4ce0-834b-bc0cb4352977</Id>
+            <Name>Lithium-ion (NCA)</Name>
+            <Color>1</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X1e9edf3e-4f9a-443f-96a0-89bd8c8055d5</Id>
+            <Name>Lithium-ion (NMC)</Name>
+            <Color>1</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X3397ccb7-0b63-4061-a728-3f9aa97f2f9f</Id>
+            <Name>Mercuric Oxide Zinc</Name>
+            <Color>5</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xedd07867-d8b6-4adc-971b-989be89fff60</Id>
+            <Name>Nickel Cadmium</Name>
+            <Color>6</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>X570acc26-f0d0-4579-bc55-58ba8248679f</Id>
+            <Name>Nickel Metal Hydride</Name>
+            <Color>11</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xf81cce89-4f05-4251-b0f7-6e91be341714</Id>
+            <Name>Silver Oxide</Name>
+            <Color>8</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xe7ffc9c0-2217-4466-adae-a15c83da6795</Id>
+            <Name>Zinc Air</Name>
+            <Color>9</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+          <Envelope>
+            <Id>Xc146b53d-9fa1-4032-94b4-7b7b1dacf288</Id>
+            <Name>Zinc Chloride</Name>
+            <Color>2</Color>
+            <IsVisible>true</IsVisible>
+            <IsCustomEnvelope>false</IsCustomEnvelope>
+          </Envelope>
+        </Envelopes>
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>FDA Approved Examples</TableName>
+        <SubsetName>All FDA devices</SubsetName>
+        <LayoutName>FDA Approved Examples</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Medical Devices</TableName>
+        <SubsetName>All medical devices</SubsetName>
+        <LayoutName>Medical Devices</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <Envelopes />
+        <UserRecords />
+      </Table>
+    </Tables>
+    <ParameterValues>
+      <ParameterValue>
+        <Name>Temperature</Name>
+        <Value>23</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Stress Ratio</Name>
+        <Value>-1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Number of Cycles</Name>
+        <Value>10000000</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Component Length</Name>
+        <Value>1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Load Factor</Name>
+        <Value>0.5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Capital Write-off Time</Name>
+        <Value>5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Overhead Rate</Name>
+        <Value>113.24726104736328</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Batch Size</Name>
+        <Value>1000</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Component Mass</Name>
+        <Value>1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Material Cost</Name>
+        <Value>6.0398540496826172</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Discount Rate</Name>
+        <Value>5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Strain</Name>
+        <Value>0.10000000149011612</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Magnetic field intensity</Name>
+        <Value>1000</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Flux density, B</Name>
+        <Value>0</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Frequency</Name>
+        <Value>400</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Frequency (high)</Name>
+        <Value>10</Value>
+      </ParameterValue>
+    </ParameterValues>
+  </Database>
+  <Stages>
+    <Stage xsi:type="TreeStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-5,-31,26,26,371,518</Windowplacement>
+      <ZOrder>1</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <Expression>[MaterialUniverse:\Fibers and particulates\Natural fibers]&#xD;
+[MaterialUniverse:\Hybrids: composites, foams, honeycombs, natural materials\Composites\Polymer matrix]&#xD;
+[MaterialUniverse:\Polymers: plastics, elastomers\Elastomers]&#xD;
+[MaterialUniverse:\Polymers: plastics, elastomers\Plastics\Thermoplastics]&#xD;
+</Expression>
+    </Stage>
+    <Stage xsi:type="LimitStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-5,-31,52,52,397,544</Windowplacement>
+      <ZOrder>2</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <Form>All materials</Form>
+      <SelectedLogicBetweenAttributes>AND</SelectedLogicBetweenAttributes>
+      <LimitValues>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Density</Property>
+          <Low>1140</Low>
+          <High>1540</High>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Young's modulus</Property>
+          <Low>10</Low>
+          <High>70</High>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Tensile strength</Property>
+          <Low>20</Low>
+          <High xsi:nil="true" />
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Elongation</Property>
+          <Low>1</Low>
+          <High xsi:nil="true" />
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueDiscreteMemento">
+          <Property>Water (fresh)</Property>
+          <Values>
+            <string>Limited use</string>
+            <string>Acceptable</string>
+            <string>Excellent</string>
+          </Values>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueDiscreteMemento">
+          <Property>Weak alkalis</Property>
+          <Values>
+            <string>Limited use</string>
+            <string>Acceptable</string>
+            <string>Excellent</string>
+          </Values>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueDiscreteMemento">
+          <Property>UV radiation (sunlight)</Property>
+          <Values>
+            <string>Fair</string>
+            <string>Good</string>
+            <string>Excellent</string>
+          </Values>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Climate change (CO2-eq) (virgin grade production)</Property>
+          <Low>0.1</Low>
+          <High>4</High>
+        </LimitValue>
+      </LimitValues>
+    </Stage>
+    <Stage xsi:type="BubbleStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,68,731,456</Windowplacement>
+      <ZOrder>3</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>true</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name>Elongation (% strain)</Name>
+        <FunctionObjective />
+        <Expression>[Elongation]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>0.49906937541864671</Low>
+        <High>5.3299201520640622</High>
+      </xAxis>
+      <yAxis>
+        <Name>Elastic stored energy (springs) (kJ/m^3)</Name>
+        <FunctionObjective />
+        <Expression>[Elastic stored energy (springs)]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>156.96730549662115</Low>
+        <High>31244.723125514603</High>
+      </yAxis>
+      <Selections />
+      <Labels>
+        <Label xsi:type="BubbleLabel">
+          <Text>Jute fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.92225552109323139</XPos>
+          <YPos>3639.0292192225838</YPos>
+          <RecordGruid>86194</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Sisal fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>1.2810516391862317</XPos>
+          <YPos>15105.286676720007</YPos>
+          <RecordGruid>86199</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Ramie fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>4.1278115076345827</XPos>
+          <YPos>12294.063573288946</YPos>
+          <RecordGruid>86198</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Hemp fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>4.0263181312342367</XPos>
+          <YPos>450.29630225164385</YPos>
+          <RecordGruid>3547</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>4.4405256671452618</XPos>
+          <YPos>1057.7534199697932</YPos>
+          <RecordGruid>13721</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SAN (20% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.86588744940756046</XPos>
+          <YPos>1655.8990556082474</YPos>
+          <RecordGruid>9667</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.75696863217733434</XPos>
+          <YPos>324.68102757417819</YPos>
+          <RecordGruid>13708</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.73713210677691388</XPos>
+          <YPos>1193.9671817103715</YPos>
+          <RecordGruid>13721</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>4.2600506917936256</XPos>
+          <YPos>683.90505385412644</YPos>
+          <RecordGruid>13708</RecordGruid>
+        </Label>
+      </Labels>
+      <Curves />
+      <ShowEnvelopes>true</ShowEnvelopes>
+    </Stage>
+    <Stage xsi:type="BubbleStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,68,731,456</Windowplacement>
+      <ZOrder>4</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>true</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name>Tensile strength (MPa)</Name>
+        <FunctionObjective />
+        <Expression>[Tensile strength]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>60.067942397807315</Low>
+        <High>1486.6498906954375</High>
+      </xAxis>
+      <yAxis>
+        <Name>Density (kg/m^3)</Name>
+        <FunctionObjective />
+        <Expression>[Density]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>1191.1396542008336</Low>
+        <High>1587.5554225213057</High>
+      </yAxis>
+      <Selections />
+      <Labels>
+        <Label xsi:type="BubbleLabel">
+          <Text>PLA (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>174.39897805495426</XPos>
+          <YPos>1514.6601583170066</YPos>
+          <RecordGruid>Xf6efb028-bb6f-48bc-835b-c10c2be495e5</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber, 5% PTFE)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>177.55127179426719</XPos>
+          <YPos>1420.6213806888031</YPos>
+          <RecordGruid>13715</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>192.02626685523785</XPos>
+          <YPos>1359.8536891814606</YPos>
+          <RecordGruid>13708</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SAN (20% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>189.03980849591616</XPos>
+          <YPos>1318.4795314937144</YPos>
+          <RecordGruid>9667</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SAN (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>77.017283936177321</XPos>
+          <YPos>1318.0462169500217</YPos>
+          <RecordGruid>4616</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>159.81485988132022</XPos>
+          <YPos>1281.7302232675031</YPos>
+          <RecordGruid>13721</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SAN (20% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>173.23135057159942</XPos>
+          <YPos>1257.9393371592362</YPos>
+          <RecordGruid>9667</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Jute fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>279.72902143163219</XPos>
+          <YPos>1464.2378606527893</YPos>
+          <RecordGruid>86194</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Sisal fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>445.67027827636</XPos>
+          <YPos>1358.066922075396</YPos>
+          <RecordGruid>86199</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Flax fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>939.39880146357086</XPos>
+          <YPos>1359.4067771386558</YPos>
+          <RecordGruid>3546</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Hemp fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>1191.0583487514944</XPos>
+          <YPos>1547.8786382008757</YPos>
+          <RecordGruid>3547</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>937.29763299118633</XPos>
+          <YPos>1568.3645989713762</YPos>
+          <RecordGruid>13708</RecordGruid>
+        </Label>
+      </Labels>
+      <Curves />
+      <ShowEnvelopes>true</ShowEnvelopes>
+    </Stage>
+    <Stage xsi:type="BubbleStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,68,731,456</Windowplacement>
+      <ZOrder>5</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>true</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name>Embodied energy (typical grade production) (MJ/kg)</Name>
+        <FunctionObjective />
+        <Expression>[Embodied energy (typical grade production)]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>6.0570561540243517</Low>
+        <High>245.58663262155224</High>
+      </xAxis>
+      <yAxis>
+        <Name>Climate change (CO2-eq) (typical grade production) (kg/kg)</Name>
+        <FunctionObjective />
+        <Expression>[Climate change (CO2-eq) (typical grade production)]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>0.70573221404287856</Low>
+        <High>4.6194812238985534</High>
+      </yAxis>
+      <Selections />
+      <Labels>
+        <Label xsi:type="BubbleLabel">
+          <Text>PLA (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>36.826610631517354</XPos>
+          <YPos>3.441058573715245</YPos>
+          <RecordGruid>Xf6efb028-bb6f-48bc-835b-c10c2be495e5</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>43.292402980645804</XPos>
+          <YPos>4.086757449129065</YPos>
+          <RecordGruid>13708</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber, 5% PTFE)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>66.130169604237722</XPos>
+          <YPos>4.2297648364192941</YPos>
+          <RecordGruid>13715</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SAN (20% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>109.3843052299171</XPos>
+          <YPos>4.0692248966139406</YPos>
+          <RecordGruid>9667</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SAN (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>119.05636030044387</XPos>
+          <YPos>3.5309785953503909</YPos>
+          <RecordGruid>4616</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>107.98902508409564</XPos>
+          <YPos>3.2400498048003428</YPos>
+          <RecordGruid>13721</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Jute fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>165.3798687977241</XPos>
+          <YPos>1.8172610945088097</YPos>
+          <RecordGruid>86194</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>Ramie fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>61.070602499724615</XPos>
+          <YPos>0.93527553238754313</YPos>
+          <RecordGruid>86198</RecordGruid>
+        </Label>
+        <Label xsi:type="BubbleLabel">
+          <Text>SPS (40% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>9.0874910259923247</XPos>
+          <YPos>1.1521189372646732</YPos>
+          <RecordGruid>13708</RecordGruid>
+        </Label>
+      </Labels>
+      <Curves />
+      <ShowEnvelopes>true</ShowEnvelopes>
+    </Stage>
+    <Stage xsi:type="BarStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,68,731,456</Windowplacement>
+      <ZOrder>6</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>true</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name />
+        <FunctionObjective />
+        <Expression />
+        <ExpressionType>0</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>false</LogAxis>
+        <Low>0</Low>
+        <High>1</High>
+      </xAxis>
+      <yAxis>
+        <Name>Price (GBP/kg)</Name>
+        <FunctionObjective />
+        <Expression>[Price]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>0.098147624707308978</Low>
+        <High>3.8730564957597835</High>
+      </yAxis>
+      <Selections />
+      <Labels>
+        <Label xsi:type="BarLabel">
+          <Text>Ramie fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.64008321775312071</XPos>
+          <YPos>1.0188237414275789</YPos>
+          <RecordGruid>86198</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>Flax fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.66712898751733707</XPos>
+          <YPos>0.80851666544044454</YPos>
+          <RecordGruid>3546</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>Hemp fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.90915395284327327</XPos>
+          <YPos>1.517818650982586</YPos>
+          <RecordGruid>3547</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>Sisal fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.811373092926491</XPos>
+          <YPos>0.33237590182591004</YPos>
+          <RecordGruid>86199</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>Jute fiber</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.74271844660194175</XPos>
+          <YPos>0.23874772452913029</YPos>
+          <RecordGruid>86194</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>PLA (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.53467406380027738</XPos>
+          <YPos>2.2884126428501808</YPos>
+          <RecordGruid>Xf6efb028-bb6f-48bc-835b-c10c2be495e5</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>SPS (30% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.4147018030513176</XPos>
+          <YPos>3.3154059223860863</YPos>
+          <RecordGruid>13721</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+        <Label xsi:type="BarLabel">
+          <Text>SPS (40% glass fiber)</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Open Sans</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.63176144244105414</XPos>
+          <YPos>3.2241723627604415</YPos>
+          <RecordGruid>13708</RecordGruid>
+          <Bar>0</Bar>
+        </Label>
+      </Labels>
+      <Curves />
+    </Stage>
+  </Stages>
+</Project>

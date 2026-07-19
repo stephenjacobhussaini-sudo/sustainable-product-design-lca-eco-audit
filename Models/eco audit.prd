@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>2</Version>
+  <Components>
+    <Component>
+      <Name>Wand (Handle)</Name>
+      <MaterialGRUID>9053</MaterialGRUID>
+      <MaterialIdentity>4396</MaterialIdentity>
+      <ProcessName>Polymer molding (injection, blow)</ProcessName>
+      <SecondaryProcessName />
+      <GradeName>Virgin</GradeName>
+      <EolName>Downcycle</EolName>
+      <Mass>0.05</Mass>
+      <Length>0</Length>
+      <RemovedPercentage>0</RemovedPercentage>
+      <RecoveryRatio>80</RecoveryRatio>
+      <Quantity>50000</Quantity>
+      <RecycledPercentage>0</RecycledPercentage>
+    </Component>
+    <Component>
+      <Name>String</Name>
+      <MaterialGRUID>X125e134d-e246-4183-9edf-49fa416c24cb</MaterialGRUID>
+      <MaterialIdentity>4686</MaterialIdentity>
+      <ProcessName />
+      <SecondaryProcessName />
+      <GradeName>Virgin</GradeName>
+      <EolName>Landfill</EolName>
+      <Mass>0</Mass>
+      <Length>0</Length>
+      <RemovedPercentage>0</RemovedPercentage>
+      <RecoveryRatio>100</RecoveryRatio>
+      <Quantity>50000</Quantity>
+      <RecycledPercentage>0</RecycledPercentage>
+    </Component>
+  </Components>
+  <Transports />
+  <Processes />
+  <UserRecords>
+    <Units>
+      <Unit>Metric</Unit>
+      <UnitType>Relative</UnitType>
+      <Currency>GBP</Currency>
+    </Units>
+  </UserRecords>
+  <CustomPrimaryProcesses />
+  <CustomSecondaryProcesses />
+  <CustomFinishingProcesses />
+  <DbName>Level 3 Bioengineering</DbName>
+  <Name>Cat Teaser Wand</Name>
+  <IncludeCostAnalysis>true</IncludeCostAnalysis>
+  <Width>0.03</Width>
+  <Height>1</Height>
+  <Depth>0.02</Depth>
+  <CountryOfProduction>The Whole World</CountryOfProduction>
+  <CountryOfUse>The Whole World</CountryOfUse>
+  <FuelRate>Domestic</FuelRate>
+  <UseRecycleFraction>false</UseRecycleFraction>
+  <IsPowered>false</IsPowered>
+  <IsMobile>false</IsMobile>
+  <MobileTransportType>Diesel - ocean shipping</MobileTransportType>
+  <StaticFuelType>Electric to thermal</StaticFuelType>
+  <StaticUsageHoursPerDay>0</StaticUsageHoursPerDay>
+  <StaticUsageDaysPerYear>0</StaticUsageDaysPerYear>
+  <StaticPowerUnitSymbol>W</StaticPowerUnitSymbol>
+  <StaticPowerRating>0</StaticPowerRating>
+  <MobileDistanceKmPerDay>0</MobileDistanceKmPerDay>
+  <MobileUsageDaysPerYear>0</MobileUsageDaysPerYear>
+  <ProductLife>1</ProductLife>
+  <HeaderStates>
+    <ProductHeaderExpanded>true</ProductHeaderExpanded>
+    <MateriaHeaderExpanded>true</MateriaHeaderExpanded>
+    <TransportHeaderExpanded>false</TransportHeaderExpanded>
+    <UseHeaderExpanded>false</UseHeaderExpanded>
+    <ReportHeaderExpanded>true</ReportHeaderExpanded>
+  </HeaderStates>
+</Product>
